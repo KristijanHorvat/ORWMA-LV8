@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Applicationlv8</string>
+    <string name="Image_URL">ImageURL</string>
+    <string name="PersonName">PersonName</string>
+    <string name="PersonDescription">PersonDescription</string>
+    <string name="Spremi">SPREMI</string>
+
+</resources>

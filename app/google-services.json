@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "174146366383",
+    "project_id": "ormwalv8-horvat-f6434",
+    "storage_bucket": "ormwalv8-horvat-f6434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174146366383:android:8c706e565b23e8aa329d5a",
+        "android_client_info": {
+          "package_name": "com.example.simple_kotlin_app_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174146366383-r7srfc7tcp66lehc7tvgmtmmkedi6f76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSQqUNL0ly4qyEh0XUfDqURbR5ck6YUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174146366383-r7srfc7tcp66lehc7tvgmtmmkedi6f76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174146366383:android:e61fa1a3f93f43c1329d5a",
+        "android_client_info": {
+          "package_name": "hr.ferit.lukacvetkovic.myapplicationlv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174146366383-r7srfc7tcp66lehc7tvgmtmmkedi6f76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSQqUNL0ly4qyEh0XUfDqURbR5ck6YUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174146366383-r7srfc7tcp66lehc7tvgmtmmkedi6f76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
